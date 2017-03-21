@@ -10,3 +10,15 @@ p.Conclusion {
 .important {
         color: red;
        }
+.highlight {
+        color: brown;
+        width: 150%
+        font-weight: 900;
+        font-size: 800;
+       }
+.fish-type {
+        color: green:inherit;
+        width: 250%;
+        font-weight: 900;
+        font-size:800;
+       }
